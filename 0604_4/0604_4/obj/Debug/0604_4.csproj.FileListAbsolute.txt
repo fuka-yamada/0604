@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\0604_4\0604_4\obj\Debug\0604_4.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\0604_4\0604_4\obj\Debug\0604_4.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\0604_4\0604_4\bin\Debug\0604_4.exe.config
+C:\Users\Owner\Desktop\0604_4\0604_4\bin\Debug\0604_4.exe
+C:\Users\Owner\Desktop\0604_4\0604_4\bin\Debug\0604_4.pdb
+C:\Users\Owner\Desktop\0604_4\0604_4\obj\Debug\0604_4.exe
+C:\Users\Owner\Desktop\0604_4\0604_4\obj\Debug\0604_4.pdb

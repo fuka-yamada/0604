@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\0604\0604\bin\Debug\0604.exe.config
+C:\Users\Owner\source\repos\0604\0604\bin\Debug\0604.exe
+C:\Users\Owner\source\repos\0604\0604\bin\Debug\0604.pdb
+C:\Users\Owner\source\repos\0604\0604\obj\Debug\0604.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\0604\0604\obj\Debug\0604.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\0604\0604\obj\Debug\0604.exe
+C:\Users\Owner\source\repos\0604\0604\obj\Debug\0604.pdb
+C:\Users\Owner\Desktop\0604\0604\bin\Debug\0604.exe.config
+C:\Users\Owner\Desktop\0604\0604\bin\Debug\0604.exe
+C:\Users\Owner\Desktop\0604\0604\bin\Debug\0604.pdb
+C:\Users\Owner\Desktop\0604\0604\obj\Debug\0604.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\0604\0604\obj\Debug\0604.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\0604\0604\obj\Debug\0604.exe
+C:\Users\Owner\Desktop\0604\0604\obj\Debug\0604.pdb
